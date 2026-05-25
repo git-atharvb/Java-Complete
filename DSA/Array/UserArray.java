@@ -1,3 +1,4 @@
+package Array;
 import java.util.*;
 public class UserArray {
     public static void main(String[] args) {

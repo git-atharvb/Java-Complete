@@ -1,3 +1,4 @@
+package Array;
 class Array{
     public static void main(String[] args) {
         int[] arr = new int[20];
